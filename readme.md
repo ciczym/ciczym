@@ -7,3 +7,4 @@ I'm a software engineer, photographer, lyricist, and overall nerd.
 
 - X / [@ciczym](https://twitter.com/ciczym)
 - Instagram / [ciczym](https://instagram.com/ciczym)
+- Mastodon / [@ciczym@mastodon.social](https://mastodon.social/@ciczym)
